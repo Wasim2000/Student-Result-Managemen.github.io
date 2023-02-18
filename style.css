@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+
+background-size: cover;
+background-repeat: no-repeat;
+height: auto;
+font-family: 'Numans', sans-serif;
+}
+
+header{
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.375);
+}
+
+
+.tab1{
+  padding: 200px;
+}
+
+.d-flex{
+  margin-top: -100px;
+}
+.navbar{
+  margin-top: -100px;
+}
+
+.t1{
+    border-radius: 5px;
+    border-color: white;
+}
+
+/* .container{
+
+height:auto;
+align-content: center;
+} */
+
+
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.card1{
+    height: auto  !important;
+    margin-left: 10px;
+    margin-top:20px;
+    margin-bottom:auto !important;
+    width: 1100px !important;
+    background-color: rgba(0,0,0,0.5) !important;
+    }
+
+    .card2{
+        height: 250px;
+        margin-top: 130px;
+        margin-bottom: auto;
+        margin-left: 100px;
+        width: 400px;
+        background-color: rgba(0,0,0,0.5) !important;
+        }
+
+        .card3{
+          height: 250px;
+          margin-top: -266px;
+          margin-bottom: auto;
+          margin-left: 600px;
+          width: 400px;
+          background-color: rgba(0,0,0,0.5) !important;
+          }
+
+        .head1 {
+            font-family: 'Brush Script MT', cursive;
+            color: rgb(27, 26, 25);
+            font-size: 4rem;
+            font-weight: 200;
+            font-style: italic;
+            margin-left: 10px;
+        }
+
+        .card-header{
+          background-color: #FFC312;
+        }
+        
+        .inbox{
+          border-radius: 5px;
+          border-color: black;
+          width: 300px;
+
+        }
+
+        .fname{
+          margin-left:2cm;
+        }
+        .lname{
+          margin-top: -44px;
+          margin-left: 580px;
+
+        }
+        .fname1{
+          margin-left: 580px;
+        }
+        .lname1{
+          margin-top: -65px;
+          margin-left: 580px;
+        }
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: #FFC312;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.card-header h3{
+color: white;
+}
+
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #FFC312;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+color: black;
+background-color: #FFC312;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
+
